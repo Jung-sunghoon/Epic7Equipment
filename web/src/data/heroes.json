@@ -15255,8 +15255,7 @@
         "chd": 1.5,
         "dac": 0.03,
         "eff": 0,
-        "efr": 0.18,
-        "bonusMaxHpPercent": 10
+        "efr": 0.18
       },
       "lv60_6": {
         "cp": 20057,
@@ -15268,8 +15267,7 @@
         "chd": 1.5,
         "dac": 0.03,
         "eff": 0,
-        "efr": 0.3,
-        "bonusMaxHpPercent": 10
+        "efr": 0.3
       }
     },
     "recommended_artifacts": [
